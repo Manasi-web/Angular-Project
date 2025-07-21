@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular Project Starts';
+  images = [
+    'assets/banner.png',
+    'assets/banner3.jpg',
+    'assets/banner4.png'
+  ];
+ 
 }

@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  overflow-x: hidden;
+  }
+
+  @media (max-width: 768px) {
+    .cropped-logo {
+      width: 160px;
+    }
+  
+    .header-bar nav a {
+      font-size: 14px;
+      margin-left: 15px;
+    }
+  }
+  
