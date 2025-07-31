@@ -4,6 +4,7 @@ html, body {
   padding: 0;
   height: auto;
   overflow-x: hidden;
+  font-family: sans-serif;
   }
 
   @media (max-width: 768px) {
